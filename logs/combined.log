@@ -1,0 +1,18 @@
+{"level":"error","message":"Failed to start server: Reached the max retries per request limit (which is 20). Refer to \"maxRetriesPerRequest\" option for details.","service":"rate-limiter","stack":"MaxRetriesPerRequestError: Reached the max retries per request limit (which is 20). Refer to \"maxRetriesPerRequest\" option for details.\n    at Socket.<anonymous> (/Users/jinghuangsu/workspace/build-your-own-x/rate-limiter/node_modules/.pnpm/ioredis@5.7.0/node_modules/ioredis/built/redis/event_handler.js:182:37)\n    at Object.onceWrapper (node:events:633:26)\n    at Socket.emit (node:events:518:28)\n    at TCP.<anonymous> (node:net:346:12)","timestamp":"2025-08-27T22:09:28.957Z"}
+{"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:09:47.720Z"}
+{"level":"info","message":"Server running on port 3000","service":"rate-limiter","timestamp":"2025-08-27T22:09:47.722Z"}
+{"level":"info","message":"Storage type: RedisStorage","service":"rate-limiter","timestamp":"2025-08-27T22:09:47.722Z"}
+{"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:09:52.020Z"}
+{"level":"info","message":"Environment variables loaded:","service":"rate-limiter","timestamp":"2025-08-27T22:10:19.978Z"}
+{"level":"info","message":"REDIS_HOST: localhost","service":"rate-limiter","timestamp":"2025-08-27T22:10:19.979Z"}
+{"level":"info","message":"PORT: 3000","service":"rate-limiter","timestamp":"2025-08-27T22:10:19.979Z"}
+{"level":"info","message":"REDIS_HOST environment variable: 'localhost'","service":"rate-limiter","timestamp":"2025-08-27T22:10:19.980Z"}
+{"level":"info","message":"Selected storage: RedisStorage","service":"rate-limiter","timestamp":"2025-08-27T22:10:19.981Z"}
+{"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:10:19.989Z"}
+{"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:10:21.139Z"}
+{"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:10:27.367Z"}
+{"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:10:29.177Z"}
+{"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:10:34.535Z"}
+{"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:10:44.913Z"}
+{"level":"info","message":"Server running on port 3334","service":"rate-limiter","timestamp":"2025-08-27T22:10:44.914Z"}
+{"level":"info","message":"Storage type: RedisStorage","service":"rate-limiter","timestamp":"2025-08-27T22:10:44.915Z"}
