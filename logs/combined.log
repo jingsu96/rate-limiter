@@ -16,3 +16,6 @@
 {"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:10:44.913Z"}
 {"level":"info","message":"Server running on port 3334","service":"rate-limiter","timestamp":"2025-08-27T22:10:44.914Z"}
 {"level":"info","message":"Storage type: RedisStorage","service":"rate-limiter","timestamp":"2025-08-27T22:10:44.915Z"}
+{"level":"info","message":"Storage connected","service":"rate-limiter","timestamp":"2025-08-27T22:23:05.821Z"}
+{"level":"info","message":"Server running on port 3334","service":"rate-limiter","timestamp":"2025-08-27T22:23:05.823Z"}
+{"level":"info","message":"Storage type: RedisStorage","service":"rate-limiter","timestamp":"2025-08-27T22:23:05.823Z"}
